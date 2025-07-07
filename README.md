@@ -1,10 +1,11 @@
 # File-Handling-Utility 
-COMPANY NAME : CodeTech IT Solutions
-NAME : G. Udhaya Moorthi 
-INTERN ID : CT04DG2593
-DOMAIN : Java Programing 
-DURATION : 4 Weeks 
-MENTOR : Neela Santosh 
+
+*COMPANY NAME* : CodeTech IT Solutions
+*NAME*: G. Udhaya Moorthi 
+*INTERN ID* : CT04DG2593
+*DOMAIN* : Java Programing 
+*DURATION* : 4 Weeks 
+*MENTOR* : Neela Santosh 
 
 In this task, I developed a Java-based file handling utility that demonstrates how to work with files—specifically reading from a PDF file, writing its content into a text file, and later modifying that file by appending new data.
 

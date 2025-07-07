@@ -15,6 +15,7 @@ After that, the program performs a modification operation by appending a new lin
 This task helped me understand file I/O operations, how to integrate external libraries in Java, and how to process real-world documents like PDFs. It also gave me practical experience in managing input/output streams, handling exceptions, and writing clean, well-documented code.
 
 Output :
+![Image](https://github.com/user-attachments/assets/35cfdcec-2fd7-4ccd-852d-70a1eda31866)
  
 
 

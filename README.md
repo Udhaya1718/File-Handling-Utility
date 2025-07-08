@@ -1,4 +1,4 @@
-# File-Handling-Utility 
+# FILE-HANDLING-UTILITY
 
 *COMPANY NAME* : CodeTech IT Solutions
 *NAME*: G. Udhaya Moorthi 
